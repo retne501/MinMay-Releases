@@ -1,18 +1,16 @@
 {
-  "tag_name": "MinMay-v2.6.17",
-  "body": "本次更新：\n- 調整官方更新下載來源，往後新版本更容易取得。\n- 保留原有邀請碼、會員登入與個人設定。\n- 更新時仍由 Android 系統詢問是否安裝。",
+  "tag_name": "MinMay-v2.6.18",
+  "body": "本次更新：\n- 新增 Threads 半自動連續擷取，可逐張裁切並收集明信片。\n- 批次圖片可逐張確認座標與上傳，並略過不需要的圖片。\n- 調整上傳頁懸浮擷取的啟動、停止按鍵位置。",
   "assets": [
     {
-      "name": "MinMay-v2.6.17-android.apk",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.17/MinMay-v2.6.17-android.apk",
-      "size": 51390028,
-      "digest": "sha256:6ea94da500ef9d5ef67d669013daaafbf7e805aa2b525d26a387c6a805ae03c5"
+      "name": "MinMay-v2.6.18-android.apk",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.18/MinMay-v2.6.18-android.apk",
+      "size": 51406408,
+      "digest": "sha256:92bf519ed950777f59c6b07c41471e9e38e971ba3fb0e664fd63ff3b593cf315"
     },
     {
-      "name": "MinMay-v2.6.17-SHA256.txt",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.17/MinMay-v2.6.17-SHA256.txt",
-      "size": 93,
-      "digest": "sha256:e6fe10faee313ca23625029e03af62f31fd39e4395b02b851e27d6603de64ac2"
+      "name": "MinMay-v2.6.18-SHA256.txt",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.18/MinMay-v2.6.18-SHA256.txt"
     }
   ]
 }
