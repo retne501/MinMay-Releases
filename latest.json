@@ -1,16 +1,16 @@
 {
-  "tag_name": "MinMay-v2.6.19",
-  "body": "本次更新：\n- 新增跨平台通用批次明信片擷取。\n- 一次辨識多組座標，只保留經緯度，不辨識文字說明。\n- 明信片可逐張裁切、配對座標與上傳。\n- 調整懸浮擷取按鍵位置。",
+  "tag_name": "MinMay-v2.6.20",
+  "body": "本次更新：\n- 批次成功上傳一張後，自動帶入下一張候選，等待使用者操作。\n- 上傳失敗不跳過；不自動連續上傳。\n- 啟動／停止懸浮擷取按鍵外框一致。\n- 保留單張座標辨識與批次擷取。",
   "assets": [
     {
-      "name": "MinMay-v2.6.19-android.apk",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.19/MinMay-v2.6.19-android.apk",
+      "name": "MinMay-v2.6.20-android.apk",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.20/MinMay-v2.6.20-android.apk",
       "size": 51406412,
-      "digest": "sha256:4ec53ee87e126691ecfbeedfce57e4be81820ea11639875f2a485f91ba56dcbb"
+      "digest": "sha256:381abf731026c94a97c4c3249bd96a1f9cbbb3abeb28e6d2c9519036d19dcf7c"
     },
     {
-      "name": "MinMay-v2.6.19-SHA256.txt",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.19/MinMay-v2.6.19-SHA256.txt"
+      "name": "MinMay-v2.6.20-SHA256.txt",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.20/MinMay-v2.6.20-SHA256.txt"
     }
   ]
 }
