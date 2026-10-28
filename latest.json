@@ -1,16 +1,18 @@
 {
-  "tag_name": "MinMay-v2.6.20",
-  "body": "本次更新：\n- 批次成功上傳一張後，自動帶入下一張候選，等待使用者操作。\n- 上傳失敗不跳過；不自動連續上傳。\n- 啟動／停止懸浮擷取按鍵外框一致。\n- 保留單張座標辨識與批次擷取。",
+  "tag_name": "MinMay-v2.6.21",
+  "body": "本次更新：\n- App 意外關閉後可恢復未完成的批次明信片，逐張確認。\n- 曾嘗試上傳的圖片會提醒先查圖鑑，再決定是否重試。\n- 明美圖鑑會員瀏覽身分延長為 24 小時。",
   "assets": [
     {
-      "name": "MinMay-v2.6.20-android.apk",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.20/MinMay-v2.6.20-android.apk",
-      "size": 51406412,
-      "digest": "sha256:381abf731026c94a97c4c3249bd96a1f9cbbb3abeb28e6d2c9519036d19dcf7c"
+      "name": "MinMay-v2.6.21-android.apk",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.21/MinMay-v2.6.21-android.apk",
+      "size": 51422796,
+      "digest": "sha256:827394e207e6971e546566df88e84f076db98692ed4e4a5807cdef0dff6bcb74"
     },
     {
-      "name": "MinMay-v2.6.20-SHA256.txt",
-      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.20/MinMay-v2.6.20-SHA256.txt"
+      "name": "MinMay-v2.6.21-SHA256.txt",
+      "browser_download_url": "https://github.com/retne501/MinMay-Releases/releases/download/MinMay-v2.6.21/MinMay-v2.6.21-SHA256.txt",
+      "size": 93,
+      "digest": "sha256:f34cd50e3920c6423624d56e7d4cf569a06119deb31acd82b6412f2e14956d64"
     }
   ]
 }
